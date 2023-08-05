@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jul  4 00:07:27 2020
 
-@author: Justin Yu, M.S. Financial Engineering, Stevens Institute of Technology
+@author: pwuing1970@gmail.com 
 
-Finite difference methods for pricing European call and put options
+
 """
 
 import numpy as np
